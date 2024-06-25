@@ -51,30 +51,31 @@ The MD5 module calculates the MD5 hash of input data, producing a 128-bit hash v
 
 ## Test Cases
 ### Test User Registration
-![User Registration](C:\Users\Laila\Desktop\senior 2.2\security\project images\s1.png)
+![User Registration](testcasesResults/s1.png)
 User 1 added successfully to the credentials file.
 
 ### Test User Login
 - Entering wrong password for username: user1 => invalid login
-  ![Invalid Login](C:\Users\Laila\Desktop\senior 2.2\security\project images\s3.png)
+  ![Invalid Login](testcasesResults/s3.png)
 - Entering correct username and password => valid login and entering the plaintext
-  ![Valid Login](C:\Users\Laila\Desktop\senior 2.2\security\project images\s4.png)
+  ![Valid Login](testcasesResults/s4.png)
 
 ### Test AES Encryption and Decryption
-![AES Encryption and Decryption](C:\Users\Laila\Desktop\senior 2.2\security\project images\s5.png)
+![AES Encryption and Decryption](testcasesResults/s5.png)
 
 ### Test DES Encryption and Decryption
-![DES Encryption and Decryption](C:\Users\Laila\Desktop\senior 2.2\security\project images\s6.png)
+![DES Encryption and Decryption](testcasesResults/s6.png)
 
 ### Test RSA Encryption and Decryption
-![RSA Encryption and Decryption](C:\Users\Laila\Desktop\senior 2.2\security\project images\s7.png)
+![RSA Encryption and Decryption](testcasesResults/s7.png)
 
 ### Test ECC Key Generation and Key Exchange
-![ECC Key Generation and Key Exchange](C:\Users\Laila\Desktop\senior 2.2\security\project images\s8.png)
+![ECC Key Generation and Key Exchange](testcasesResults/s8.png)
 
 ### Test Hashing
-![Hashing](C:\Users\Laila\Desktop\senior 2.2\security\project images\s9.png)
+![Hashing](testcasesResults/s9.png)
 
 ### Test Key Generation and Storage
-![Key Generation and Storage](C:\Users\Laila\Desktop\senior 2.2\security\project images\s10.png)
+![Key Generation and Storage](testcasesResults/s10.png)
+
 
